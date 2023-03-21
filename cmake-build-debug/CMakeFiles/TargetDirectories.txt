@@ -1,0 +1,3 @@
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/CMakeFiles/FAT_12_FILE_READER.dir
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/CMakeFiles/rebuild_cache.dir

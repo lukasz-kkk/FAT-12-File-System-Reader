@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FAT_12_FILE_READER"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FAT_12_FILE_READER">
+				<Option output="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/FAT_12_FILE_READER.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/."/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 FAT_12_FILE_READER"/>
+					<CompileFile command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FAT_12_FILE_READER/fast">
+				<Option output="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/FAT_12_FILE_READER.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/."/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 FAT_12_FILE_READER/fast"/>
+					<CompileFile command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.c">
+			<Option target="FAT_12_FILE_READER"/>
+		</Unit>
+		<Unit filename="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.h">
+			<Option target="FAT_12_FILE_READER"/>
+		</Unit>
+		<Unit filename="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/main.c">
+			<Option target="FAT_12_FILE_READER"/>
+		</Unit>
+		<Unit filename="C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

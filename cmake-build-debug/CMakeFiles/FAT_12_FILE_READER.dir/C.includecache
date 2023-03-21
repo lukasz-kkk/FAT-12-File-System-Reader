@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.c
+errno.h
+-
+string.h
+-
+file_reader.h
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.h
+
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.h
+stdint.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/main.c
+stdio.h
+-
+file_reader.h
+C:/Users/lukal/OneDrive/Pulpit/FAT-12-FILE-READER/file_reader.h
+

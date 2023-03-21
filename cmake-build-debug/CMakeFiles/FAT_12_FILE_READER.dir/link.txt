@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FAT_12_FILE_READER.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\FAT_12_FILE_READER.dir/objects.a @CMakeFiles\FAT_12_FILE_READER.dir\objects1.rsp
+D:\mingw\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\FAT_12_FILE_READER.dir/objects.a -Wl,--no-whole-archive -o FAT_12_FILE_READER.exe -Wl,--out-implib,libFAT_12_FILE_READER.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FAT_12_FILE_READER.dir\linklibs.rsp

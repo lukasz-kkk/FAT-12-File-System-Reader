@@ -4,6 +4,9 @@ A FAT-12 disk image reader developed for the "Operating Systems" classes that al
 
 # USAGE
 ```
+#include <stdio.h>
+#include "file_reader.h"
+
 int main() {
     char *filecontent = (char *)calloc(10240, 1);
     
